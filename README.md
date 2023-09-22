@@ -7,7 +7,7 @@ A super cool Discord bot
 
 **Coolbot -  Documentation**
 
-**Check library.py for what libraries is needed to run the bot. This is not meant for someone to just pick up and use for their server. This is merely a way for me to keep track of what updates I roll out for the bot.**
+**This is not meant for someone to just pick up and use for their server, it is more a fun project I did on the side.**
 
 Features:
 - Happy Birthday wisher,
@@ -21,25 +21,25 @@ Features:
 - Access ChatGPT with the bot,
 
 Dependencies (pip install ..)
-asyncpraw
-discord 1.7.3
-discord-py-slash-command 3.0.3
-pytz
-requests, json
-time
-pandas
-googletrans **3.1.0a0** <-- very important version
-discord.ext
-itertools
-datetime
-random
-os
-string
-tabulate
-re
-numpy
-matplotlib.pyplot
-openai
+- asyncpraw
+- discord 1.7.3
+- discord-py-slash-command 3.0.3
+- pytz
+- requests, json
+- time
+- pandas
+- googletrans **3.1.0a0** <-- very important version
+- discord.ext
+- itertools
+- datetime
+- random
+- os
+- string
+- tabulate
+- re
+- numpy
+- matplotlib.pyplot
+- openai
 
 _/chinatime_
 The reason why this bot was created in the first place. This command will return the current time in mainland China.
