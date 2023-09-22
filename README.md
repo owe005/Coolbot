@@ -3,7 +3,7 @@
 # Coolbot
 A super cool Discord bot
 
-![alt text](Coolbot.png "profile_pic")
+<img src="Coolbot.png" width="200" height="200" />
 
 **Coolbot -  Documentation**
 
