@@ -19,25 +19,25 @@ Features:
 - Access ChatGPT with the bot,
 
 Dependencies (pip install ..)
-asyncpraw
-discord 1.7.3
-discord-py-slash-command 3.0.3
-pytz
-requests, json
-time
-pandas
-googletrans **3.1.0a0** <-- very important version
-discord.ext
-itertools
-datetime
-random
-os
-string
-tabulate
-re
-numpy
-matplotlib.pyplot
-openai
+- asyncpraw
+- discord 1.7.3
+- discord-py-slash-command 3.0.3
+- pytz
+- requests, json
+- time
+- pandas
+- googletrans **3.1.0a0** <-- very important version
+- discord.ext
+- itertools
+- datetime
+- random
+- os
+- string
+- tabulate
+- re
+- numpy
+- matplotlib.pyplot
+- openai
 
 _/chinatime_
 The reason why this bot was created in the first place. This command will return the current time in mainland China.
