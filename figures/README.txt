@@ -1,0 +1,1 @@
+This folder is used for storing figures temporary before deleting them after they've been sent in Discord.
