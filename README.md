@@ -5,7 +5,7 @@ A super cool Discord bot
 
 **Coolbot -  Documentation**
 
-**Check library.py for what libraries is needed to run the bot. This is not meant for someone to just pick up and use for their server. This is merely a way for me to keep track of what updates I roll out for the bot.**
+**This is not meant for someone to just pick up and use for their server, it is more a fun project I did on the side.**
 
 Features:
 - Happy Birthday wisher,
