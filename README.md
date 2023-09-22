@@ -3,6 +3,8 @@
 # Coolbot
 A super cool Discord bot
 
+![alt text](Coolbot.png "profile_pic")
+
 **Coolbot -  Documentation**
 
 **Check library.py for what libraries is needed to run the bot. This is not meant for someone to just pick up and use for their server. This is merely a way for me to keep track of what updates I roll out for the bot.**
